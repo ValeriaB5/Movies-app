@@ -1,0 +1,19 @@
+{
+  "name": "movies-app",
+  "version": "1.0.0",
+  "description": "This is a movie platform, made with API REST in JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ValeriaB5/Movies-app.git).git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValeriaB5/Movies-app.git)/issues"
+  },
+  "homepage": "https://github.com/ValeriaB5/Movies-app.git)#readme"
+}
